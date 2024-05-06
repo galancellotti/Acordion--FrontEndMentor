@@ -1,0 +1,25 @@
+
+
+/* FAQ */
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.containerFAQ__title{
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
+}
+
+/* Acordion */
+.acordion-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    
+}
+
+
